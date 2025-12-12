@@ -6,7 +6,7 @@ import HomePage from './pages/HomePage'
 import AboutPage from './pages/AboutPage'
 import ArticleListPage from './pages/ArticleListPage'
 import ArticlePage from './pages/ArticlePage'
-import NotFoundPage from './pages/NotFoundpage'
+import NotFoundPage from './pages/NotFoundPage'
 import Layout from './components/Layout'
 
 const routes = [

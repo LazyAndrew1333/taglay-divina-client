@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Segeoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --webkit-font-smoothing: antialiased;
+  --moz-osx-font-smoothing: grayscale;
+  background: url('./assets/background.jpg') center/cover no-repeat fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
